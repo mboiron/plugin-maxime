@@ -1,0 +1,4 @@
+plugin-maxime
+=============
+
+kosmtik-tests
